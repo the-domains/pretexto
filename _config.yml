@@ -1,4 +1,20 @@
-analytics: {}
+name: pretexto
+favicon: null
+layout_spectrum: 0.053097
+typography_spectrum: 0.46792
+title: Pretexto
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#B87878'
@@ -8,11 +24,9 @@ color:
     - '#70E8E0'
   brandStrength: 0.5703602789130449
   lightness: 0.14213328099754818
-  rhythmicContrast: 0.4185450066408831
   saturation: 0.6449440429082475
-cta: {}
-layout_spectrum: 0.053097
-name: pretexto
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.46792
+  rhythmicContrast: 0.4185450066408831
+purpose:
+  - name: null
+    item: null
+    url: null
